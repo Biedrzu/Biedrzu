@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a Test Analyst / Software Engineer from Poland who makes his first steps into test automation
+
+🌱 I’m currently learning test automation with:
+JavaScript, TypeScript, Cypress, RobotFramework
+
 <!--
 **Biedrzu/Biedrzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
