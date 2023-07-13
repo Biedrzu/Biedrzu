@@ -5,6 +5,10 @@ I'm a Test Analyst / Software Engineer from Poland who makes his first steps int
 🌱 I’m currently learning test automation with:
 JavaScript, TypeScript, Cypress, RobotFramework
 
+My projects:
+Manual (task 1) and automated (task 2) testing
+https://github.com/Biedrzu/Cypress-Web-Tests-Automation
+
 <!--
 **Biedrzu/Biedrzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
