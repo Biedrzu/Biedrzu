@@ -1,13 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm a Test Analyst / Software Engineer from Poland who makes his first steps into test automation
+I am a Software Test Engineer from Poland who is currently working on test automation using TypeScipt and Cypress
 
-🌱 I’m currently learning test automation with:
-JavaScript, TypeScript, Cypress, RobotFramework
-
-My projects: <br />
-Manual (task 1) and automated (task 2) testing <br />
+## My projects: <br />
+### 1) Web Testing
 https://github.com/Biedrzu/Cypress-Web-Tests-Automation <br />
+Task 1 - Manual Testing
+Task 2 - Automated Testing using Cypress
+
 
 <!--
 **Biedrzu/Biedrzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
