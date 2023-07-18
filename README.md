@@ -5,7 +5,7 @@ I am a Software Test Engineer from Poland who is currently working on test autom
 ## My projects: <br />
 ### 1) Web Testing
 https://github.com/Biedrzu/Cypress-Web-Tests-Automation <br />
-Task 1 - Manual Testing
+Task 1 - Manual Testing <br />
 Task 2 - Automated Testing using Cypress
 
 
